@@ -16,8 +16,9 @@
 ### **Profile Details**
 
 #### **1. Identity**
-- **Name:** Shruti Kumari
-- **Tagline:** A passionate Data Scientist and AI Enthusiast 
+-  **Name:** Shruti Kumari
+-  **Pursuing:** B.Sc. in Computer Science & Data Analytics (CSDA) at IIT Patna
+
 
 #### **2. Learning Focus**
 - Advanced Deep Learning Architectures
