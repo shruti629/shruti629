@@ -53,20 +53,7 @@
 
 ---
 
-### **GitHub Stats**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shruti629&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shruti629&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shruti629&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
----
-
-<h3 align="center">Connect with me:</h3>
-<div align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shruti-kumari-a83724286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://kaggle.com/https://www.kaggle.com/shrutiitp78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="40" width="40" /></a>
-</div>
 <!--
 **shruti629/shruti629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
